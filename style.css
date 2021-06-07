@@ -1,0 +1,46 @@
+body{
+    color: black;
+    background-color: coral;
+    background-image: "image.jpg";
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px double black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name{
+ color: crimson;
+}
+
+.h3{
+    background-color: rgba(199, 64, 30, 0.404);
+    font-family: fantasy;
+}
+
+.name_of_objects{
+    background-color: aquamarine;
+    font-family:monospace;
+    border: 4px, black;
+}
+#custom{
+    background-color: rgba(160, 245, 3, 0.404);
+    font-family: serif;
+    color: papayawhip;
+}
+.help{
+    color: beige;
+}
+
+.help2{
+    color: beige;
+}
+
+
+
+
+
+
